@@ -1,4 +1,4 @@
-# mighty_news_firebase
+# News-App-with-Wordpress-Firebase-backend-using-Flutter-2.0
 
 A new Flutter application.
 

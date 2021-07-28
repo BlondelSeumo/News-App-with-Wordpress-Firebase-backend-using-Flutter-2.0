@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1027112399447-6a88d7nv8snfpaheh5fnath7seuslvj7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1027112399447-6a88d7nv8snfpaheh5fnath7seuslvj7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1027112399447-0etl6dovvrlfpnv5un96bo4u3ns1qdo9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA1fIHkqxUVIIXVOBEjwKIhC-b1Qkb1Glc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1027112399447</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mighty.news</string>
+	<key>PROJECT_ID</key>
+	<string>mighty-news-8e661</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mighty-news-8e661.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1027112399447:ios:8fd8fdc32fa67adc132912</string>
+</dict>
+</plist>

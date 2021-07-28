@@ -1,0 +1,2 @@
+
+mighty-news-api

@@ -1,0 +1,23 @@
+{
+    "name": "mighty/mightynews-api",
+    "authors": [
+        {
+            "name": "mighty",
+            "email": "hello@meetmighty.com"
+        }
+    ],
+    "require": {
+        "illuminate/collections": "8.*",
+        "ext-json": "*"
+    },
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Includes\\": "./includes"
+        },
+        "files": [
+            "utils/mn_helpers.php",
+            "utils/mn_admin_panel_helper.php"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027112399447",
+    "project_id": "mighty-news-8e661",
+    "storage_bucket": "mighty-news-8e661.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027112399447:android:40f68bfa2124e3dc132912",
+        "android_client_info": {
+          "package_name": "com.mighty.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027112399447-60ufv7oi6s8u5onr60fjrj4eitu166gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL6uTeBcyLShHuAI1Xi9ifUZgw5cqlXzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027112399447-60ufv7oi6s8u5onr60fjrj4eitu166gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,49 @@
+.card{
+    max-width: 100%;
+}
+.card-footer{
+    background: none;
+}
+
+select.form-control[multiple] {
+    min-height: 100px;
+    font-size: 18px;
+}
+
+select.form-control[multiple]:hover {
+    color: inherit;
+}
+
+select.form-control[multiple] option:hover {
+    color: #007cba;
+}
+
+.multiselect-container {
+    max-height: 100vh;
+    overflow-y: auto;
+}
+
+.mn-multiple-checkboxes + button + .dropdown-menu {
+    transform: unset !important;
+    top: 100% !important;
+}
+
+.mn-multiple-checkboxes + .btn-group, .mn-multiple-checkboxes + .btn-group .multiselect {
+    width: 100%;
+}
+
+.mn-multiple-checkboxes + .dropdown-toggle {
+    border: 1px solid #7e8993;
+}
+
+.mn-multiple-checkboxes + .btn-group .multiselect.dropdown-toggle::after {
+    margin-top: 10px;
+    float: right;
+    margin-left: -5px;
+    background: #fff;
+    height: 10px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
